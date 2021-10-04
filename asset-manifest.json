@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SimpleCardGameReact/static/css/main.c9f751d2.chunk.css",
+    "main.js": "/SimpleCardGameReact/static/js/main.b2cde245.chunk.js",
+    "main.js.map": "/SimpleCardGameReact/static/js/main.b2cde245.chunk.js.map",
+    "runtime-main.js": "/SimpleCardGameReact/static/js/runtime-main.de60904f.js",
+    "runtime-main.js.map": "/SimpleCardGameReact/static/js/runtime-main.de60904f.js.map",
+    "static/js/2.53abbe96.chunk.js": "/SimpleCardGameReact/static/js/2.53abbe96.chunk.js",
+    "static/js/2.53abbe96.chunk.js.map": "/SimpleCardGameReact/static/js/2.53abbe96.chunk.js.map",
+    "static/js/3.e84da83f.chunk.js": "/SimpleCardGameReact/static/js/3.e84da83f.chunk.js",
+    "static/js/3.e84da83f.chunk.js.map": "/SimpleCardGameReact/static/js/3.e84da83f.chunk.js.map",
+    "index.html": "/SimpleCardGameReact/index.html",
+    "static/css/main.c9f751d2.chunk.css.map": "/SimpleCardGameReact/static/css/main.c9f751d2.chunk.css.map",
+    "static/js/2.53abbe96.chunk.js.LICENSE.txt": "/SimpleCardGameReact/static/js/2.53abbe96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de60904f.js",
+    "static/js/2.53abbe96.chunk.js",
+    "static/css/main.c9f751d2.chunk.css",
+    "static/js/main.b2cde245.chunk.js"
+  ]
+}
